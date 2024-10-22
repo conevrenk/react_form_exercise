@@ -57,7 +57,7 @@
   justify-content: center;
 }
 .task-delete {
-  ding: 5px;
+  padding: 5px;
   font-size: 15px;
   margin: 5px;
   border-radius: 30px;
